@@ -7,14 +7,19 @@ Após isso, os pedidos serão divididos em tópicos, como segurança, ferramenta
 
 ## Template para Levantamento de Requisitos
 1. Identificação do Projeto
+
 Nome do Projeto:
 Cliente:
 Data:
 Responsável pelo Levantamento:
-2. Objetivo do Projeto
+
+3. Objetivo do Projeto
+   
 Descrição Geral:
 Principais Benefícios:
-3. Requisitos Funcionais
+
+5. Requisitos Funcionais
+   
 Funcionalidade 1:
 Descrição:
 Prioridade:
@@ -22,7 +27,9 @@ Funcionalidade 2:
 Descrição:
 Prioridade:
 (Adicionar mais funcionalidades conforme necessário)
-4. Requisitos Não Funcionais
+
+7. Requisitos Não Funcionais
+   
 Desempenho:
 Descrição:
 Segurança:
@@ -30,23 +37,30 @@ Descrição:
 Usabilidade:
 Descrição:
 (Adicionar mais requisitos não funcionais conforme necessário)
-5. Tecnologias e Ferramentas
+
+9. Tecnologias e Ferramentas
 Ferramenta 1:
 Descrição:
 Ferramenta 2:
 Descrição:
 (Adicionar mais ferramentas conforme necessário)
-6. Restrições e Premissas
+
+11. Restrições e Premissas
+    
 Restrição 1:
 Descrição:
 Premissa 1:
 Descrição:
 (Adicionar mais restrições e premissas conforme necessário)
-7. Critérios de Aceitação
+
+13. Critérios de Aceitação
+    
 Critério 1:
 Descrição:
 Critério 2:
 Descrição:
 (Adicionar mais critérios conforme necessário)
-8. Anexos
+
+15. Anexos
+    
 (Incluir documentos adicionais, diagramas, fluxogramas, etc.)
